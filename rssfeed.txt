@@ -6,6 +6,15 @@
  <managingEditor>jim.wilson@nasa.gov</managingEditor>
  <webMaster>brian.dunbar@nasa.gov</webMaster>
  <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>New Research Heading to Space Station Aboard 14th SpaceX Resupply Mission</title>
+ <link>http://www.nasa.gov/press-release/new-research-heading-to-space-station-aboard-14th-spacex-resupply-mission</link>
+ <description>Astronauts aboard the International Space Station soon will receive a delivery of experiments dealing with how the human body, plants and materials behave in space following the 4:30 p.m. EDT launch Monday of a SpaceX commercial resupply mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/spacex_crs-14_launch_co.jpg?itok=rppahbSb" length="2006921" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/new-research-heading-to-space-station-aboard-14th-spacex-resupply-mission</guid>
+ <pubDate>Mon, 02 Apr 2018 16:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421779</dc:identifier>
+</item>
  <item> <title>NASA Invests in Shapeshifters, Biobots, Other Visionary Technology</title>
  <link>http://www.nasa.gov/press-release/nasa-invests-in-shapeshifters-biobots-other-visionary-technology</link>
  <description>NASA is investing in technology concepts that includes meteoroid impact detection, space telescope swarms and small orbital debris mapping technologies that may one day be used for future space exploration missions.</description>
@@ -86,15 +95,6 @@
  <pubDate>Mon, 26 Mar 2018 16:49 EDT</pubDate>
  <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
  <dc:identifier>421315</dc:identifier>
-</item>
- <item> <title>NASA Invites Media to View Launch of InSight Mars Lander from West Coast</title>
- <link>http://www.nasa.gov/press-release/nasa-invites-media-to-view-launch-of-insight-mars-lander-from-west-coast</link>
- <description>Media accreditation is open for the launch of NASA&#039;s next mission to Mars - the Interior Exploration using Seismic Investigations, Geodesy and Heat Transport spacecraft (InSight) from Vandenberg Air Force Base in California.</description>
- <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-052insight.jpg?itok=yyPsv2Rj" length="1432515" type="image/jpeg" />
- <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-view-launch-of-insight-mars-lander-from-west-coast</guid>
- <pubDate>Fri, 23 Mar 2018 16:45 EDT</pubDate>
- <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
- <dc:identifier>421208</dc:identifier>
 </item>
 </channel>
 </rss>

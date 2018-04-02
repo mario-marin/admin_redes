@@ -17,7 +17,7 @@ wget -O $news https://www.nasa.gov/rss/dyn/breaking_news.rss
 #list=$(sed -e 's/.*<title>\(.*\)<\/title>.*/\1/' rssfeed.txt)
 
 
-titles=($(sed -e 's/.*<title>\(.*\)<\/title>.*/\1./I;t;d' "$news"))
+titles=($(sed -e 's/.*<title>\(.*\)<\/title>.*/\1\ .p0t4t0./I;t;d' "$news"))
 
 links=($(sed -e 's/.*<link>\(.*\)<\/link>.*/\1/I;t;d' "$news"))
 
@@ -26,7 +26,26 @@ do
         echo "$T"
 done
 
+titles_fixed=""
+index=0
+
+for M in "${titles[@]}"
+do
+	if [ $M == ".p0t4t0." ]; then
+		echo "${titles_fixed[index]}" >> nasaNews.txt
+		echo "${links[index]}" >> nasaNews.txt
+		echo " "  >> nasaNews.txt
+		index=$[$index +1]
+	else 
+		titles_fixed[index]="${titles_fixed[index]} $M"
+	fi
+done
+
+echo $titles_fixed
+
+
 
 echo "numero de noticias+1: " ${#links[@]} #numero de noticias+1
 echo ${#titles[@]} # me da el numero de elementos
-#echo ${links[2]}
+echo ${links[0]}
+echo ${titles_fixed[1]}
