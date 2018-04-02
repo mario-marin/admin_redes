@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA Invests in Shapeshifters, Biobots, Other Visionary Technology</title>
+ <link>http://www.nasa.gov/press-release/nasa-invests-in-shapeshifters-biobots-other-visionary-technology</link>
+ <description>NASA is investing in technology concepts that includes meteoroid impact detection, space telescope swarms and small orbital debris mapping technologies that may one day be used for future space exploration missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/niac-with_text.jpg?itok=j_eiLs96" length="2002424" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invests-in-shapeshifters-biobots-other-visionary-technology</guid>
+ <pubDate>Fri, 30 Mar 2018 12:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421621</dc:identifier>
+</item>
+ <item> <title>NASA Ready to Study Heart of Mars</title>
+ <link>http://www.nasa.gov/press-release/nasa-ready-to-study-heart-of-mars</link>
+ <description>NASA is about to go on a journey to study the interior of Mars. The space agency held a news conference today at its Jet Propulsion Laboratory (JPL) in Pasadena, California, detailing the next mission to the Red Planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/insight_launch_still1.jpg?itok=ri5Pk__J" length="133084" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-ready-to-study-heart-of-mars</guid>
+ <pubDate>Thu, 29 Mar 2018 16:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421553</dc:identifier>
+</item>
+ <item> <title>NASA to Host News Conference Announcing New Supersonic Test Aircraft</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-host-news-conference-announcing-new-supersonic-test-aircraft</link>
+ <description>NASA will host a news conference at 11 a.m. EDT Tuesday, April 3, to announce the agency&#039;s plans for its next experimental aircraft, or X-plane, called the Low-Boom Flight Demonstrator (LBFD).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ssonicx_1920x1280_no_title.jpg?itok=6kW9HXPI" length="243190" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-host-news-conference-announcing-new-supersonic-test-aircraft</guid>
+ <pubDate>Thu, 29 Mar 2018 15:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421548</dc:identifier>
+</item>
+ <item> <title>NASA Prepares to Launch Next Mission to Search Sky for New Worlds</title>
+ <link>http://www.nasa.gov/press-release/nasa-prepares-to-launch-next-mission-to-search-sky-for-new-worlds</link>
+ <description>NASA&#039;s Transiting Exoplanet Survey Satellite (TESS) is undergoing final preparations in Florida for its April 16 launch to find undiscovered worlds around nearby stars, providing targets where future studies will assess their capacity to harbor life.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/tesslavaplanet.jpg?itok=E5HW6yVS" length="510214" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-prepares-to-launch-next-mission-to-search-sky-for-new-worlds</guid>
+ <pubDate>Wed, 28 Mar 2018 12:32 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421443</dc:identifier>
+</item>
+ <item> <title>NASA Awards Contract for Environmental Compliance, Operation Services</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-for-environmental-compliance-operation-services</link>
+ <description>NASA has awarded a contract to Navarro Research and Engineering, Inc., of Oak Ridge, Tennessee, for continued environmental compliance and operation services at the agency’s White Sands Test Facility in Las Cruces, New Mexico.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=L07ZQKnk" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-environmental-compliance-operation-services</guid>
+ <pubDate>Tue, 27 Mar 2018 16:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421382</dc:identifier>
+</item>
+ <item> <title>Be a Flight Director: NASA Accepting Applications for Mission Control Leaders</title>
+ <link>http://www.nasa.gov/press-release/be-a-flight-director-nasa-accepting-applications-for-mission-control-leaders</link>
+ <description>How would you like to sit at the helm of human spaceflight, responsible for the success of missions and the highly trained teams of engineers and scientists that make them possible? NASA is hiring new flight directors for just this job at its mission control at Johnson Space Center in Houston.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2016e109561-small.jpg?itok=z_ITnlpo" length="1348483" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/be-a-flight-director-nasa-accepting-applications-for-mission-control-leaders</guid>
+ <pubDate>Tue, 27 Mar 2018 16:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421355</dc:identifier>
+</item>
+ <item> <title>NASA’s Webb Observatory Requires More Time for Testing and Evaluation; New Launch Window Under Review</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-webb-observatory-requires-more-time-for-testing-and-evaluation-new-launch</link>
+ <description>NASA’s James Webb Space Telescope currently is undergoing final integration and test phases that will require more time to ensure a successful mission. After an independent assessment of remaining tasks for the highly complex space observatory, Webb’s previously revised 2019 launch window now is targeted for approximately May 2020.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jwst_artist_concept_0.png?itok=mr3upvXq" length="1975060" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-webb-observatory-requires-more-time-for-testing-and-evaluation-new-launch</guid>
+ <pubDate>Tue, 27 Mar 2018 11:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421357</dc:identifier>
+</item>
+ <item> <title>NASA Hosts Media Teleconference on Status of James Webb Space Telescope</title>
+ <link>http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-on-status-of-james-webb-space-telescope</link>
+ <description>NASA will host a media teleconference at 11:30 a.m. EDT Tuesday, March 27, to provide an update on the agency’s James Webb Space Telescope – what will be the world’s premier infrared space observatory and the biggest astronomical science telescope ever built. Audio of the call will stream live on NASA’s website.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jwst_artist_concept_0.png?itok=mr3upvXq" length="1975060" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-on-status-of-james-webb-space-telescope</guid>
+ <pubDate>Mon, 26 Mar 2018 17:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421316</dc:identifier>
+</item>
+ <item> <title>NASA Television to Air Launch of Next Space Station Resupply Mission</title>
+ <link>http://www.nasa.gov/press-release/nasa-television-to-air-launch-of-next-space-station-resupply-mission-3</link>
+ <description>NASA commercial cargo provider SpaceX now is targeting its 14th resupply mission to the International Space Station for no earlier than 4:30 p.m. EDT Monday, April 2.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-053.jpg?itok=VuGSRSBe" length="751840" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-television-to-air-launch-of-next-space-station-resupply-mission-3</guid>
+ <pubDate>Mon, 26 Mar 2018 16:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421315</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to View Launch of InSight Mars Lander from West Coast</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-view-launch-of-insight-mars-lander-from-west-coast</link>
+ <description>Media accreditation is open for the launch of NASA&#039;s next mission to Mars - the Interior Exploration using Seismic Investigations, Geodesy and Heat Transport spacecraft (InSight) from Vandenberg Air Force Base in California.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-052insight.jpg?itok=yyPsv2Rj" length="1432515" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-view-launch-of-insight-mars-lander-from-west-coast</guid>
+ <pubDate>Fri, 23 Mar 2018 16:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421208</dc:identifier>
+</item>
+</channel>
+</rss>
