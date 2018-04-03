@@ -6,6 +6,24 @@
  <managingEditor>jim.wilson@nasa.gov</managingEditor>
  <webMaster>brian.dunbar@nasa.gov</webMaster>
  <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA Brings Universe of Discovery to USA Science and Engineering Festival</title>
+ <link>http://www.nasa.gov/press-release/nasa-brings-universe-of-discovery-to-usa-science-and-engineering-festival</link>
+ <description>Step into the future of aviation and space exploration with NASA at the USA Science and Engineering Festival on Saturday, April 7, and Sunday, April 8, at the Walter E. Washington Convention Center in Washington.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/26176976800_597b51b494_o.jpg?itok=BJ4wYF6a" length="4537626" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-brings-universe-of-discovery-to-usa-science-and-engineering-festival</guid>
+ <pubDate>Tue, 03 Apr 2018 16:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421842</dc:identifier>
+</item>
+ <item> <title>NASA Awards Contract to Build Quieter Supersonic Aircraft</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-to-build-quieter-supersonic-aircraft</link>
+ <description>NASA has taken another step toward re-introducing supersonic flight with the award Tuesday of a contract for the design, building and testing of a supersonic aircraft that reduces a sonic boom to a gentle thump.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/lbfd-vehicle2.jpg?itok=4v0lSY3Q" length="2170558" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-to-build-quieter-supersonic-aircraft</guid>
+ <pubDate>Tue, 03 Apr 2018 10:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>421822</dc:identifier>
+</item>
  <item> <title>New Research Heading to Space Station Aboard 14th SpaceX Resupply Mission</title>
  <link>http://www.nasa.gov/press-release/new-research-heading-to-space-station-aboard-14th-spacex-resupply-mission</link>
  <description>Astronauts aboard the International Space Station soon will receive a delivery of experiments dealing with how the human body, plants and materials behave in space following the 4:30 p.m. EDT launch Monday of a SpaceX commercial resupply mission.</description>
@@ -77,24 +95,6 @@
  <pubDate>Tue, 27 Mar 2018 11:15 EDT</pubDate>
  <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
  <dc:identifier>421357</dc:identifier>
-</item>
- <item> <title>NASA Hosts Media Teleconference on Status of James Webb Space Telescope</title>
- <link>http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-on-status-of-james-webb-space-telescope</link>
- <description>NASA will host a media teleconference at 11:30 a.m. EDT Tuesday, March 27, to provide an update on the agency’s James Webb Space Telescope – what will be the world’s premier infrared space observatory and the biggest astronomical science telescope ever built. Audio of the call will stream live on NASA’s website.</description>
- <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jwst_artist_concept_0.png?itok=mr3upvXq" length="1975060" type="image/png" />
- <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-on-status-of-james-webb-space-telescope</guid>
- <pubDate>Mon, 26 Mar 2018 17:05 EDT</pubDate>
- <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
- <dc:identifier>421316</dc:identifier>
-</item>
- <item> <title>NASA Television to Air Launch of Next Space Station Resupply Mission</title>
- <link>http://www.nasa.gov/press-release/nasa-television-to-air-launch-of-next-space-station-resupply-mission-3</link>
- <description>NASA commercial cargo provider SpaceX now is targeting its 14th resupply mission to the International Space Station for no earlier than 4:30 p.m. EDT Monday, April 2.</description>
- <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-053.jpg?itok=VuGSRSBe" length="751840" type="image/jpeg" />
- <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-television-to-air-launch-of-next-space-station-resupply-mission-3</guid>
- <pubDate>Mon, 26 Mar 2018 16:49 EDT</pubDate>
- <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
- <dc:identifier>421315</dc:identifier>
 </item>
 </channel>
 </rss>

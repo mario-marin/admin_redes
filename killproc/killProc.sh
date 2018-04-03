@@ -3,7 +3,7 @@
 list=($(ps -eo pid,comm,%cpu | awk '{print $0}'))
 
 i=0 
-fuf=50.0
+requerimiento=95.0
 for I in "${list[@]}"
 do
 
@@ -19,15 +19,12 @@ do
 	then
 		perc=$I
 		i=0
-		if [ `echo "$fuf" \< "$perc"` ]
+		if [ `echo "$requerimiento" \< "$perc"` ]
 		then
-			echo $pid
-			echo $perc
-			echo $name
 			echo "pid:$pid %cpu:$perc name:$name " >> killedProcess.log
 			kill -9 $pid
 		fi	
 	else
-		echo "fu"
+		echo "error"
 	fi
 done
